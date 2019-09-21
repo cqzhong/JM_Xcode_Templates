@@ -10,9 +10,9 @@ cd /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develo
 
 将项目拉取下来，并命名为 `CD Class.xctemplate`（文件夹名自由定义，后缀名不可变），注意这个目录是系统目录，需要 root 权限才能修改，所以所有 git 命令都需要加 `sudo`。
 ```bash
-sudo git clone git@gitlab.ttsing.com:ios/CD_Xcode_Templates.git CD\ Class.xctemplate
+sudo git clone https://github.com/cqzhong/JM_Xcode_Templates.git JM\ Class.xctemplate
 ```
 
-无需重启 Xcode，直接新建文件，即可看到“CD Class”的模板可供选择。
+无需重启 Xcode，直接新建文件，即可看到“JM Class”的模板可供选择。
 
 ![](F4FCBE83-82B8-41EF-883F-FE776F20BB6C.png)

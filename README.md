@@ -15,4 +15,4 @@ sudo git clone https://github.com/cqzhong/JM_Xcode_Templates.git JM\ Class.xctem
 
 无需重启 Xcode，直接新建文件，即可看到“JM Class”的模板可供选择。
 
-![](F4FCBE83-82B8-41EF-883F-FE776F20BB6C.png)
+![](001.png)

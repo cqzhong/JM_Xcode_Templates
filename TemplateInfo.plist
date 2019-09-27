@@ -49,6 +49,8 @@
 			<string>#import &lt;UIKit/UIKit.h&gt;</string>
 			<key>Values</key>
 			<array>
+				<string>UICollectionViewController</string>
+				<string>UITableViewController</string>
 				<string>JMBaseRequest</string>
 				<string>UICollectionViewCell</string>
 				<string>UITableViewCell</string>
@@ -57,6 +59,10 @@
 			</array>
 			<key>Suffixes</key>
 			<dict>
+				<key>UICollectionViewController</key>
+				<string>CollectionViewController</string>
+				<key>UITableViewController</key>
+				<string>TableViewController</string>
 				<key>UIViewController</key>
 				<string>ViewController</string>
 				<key>UICollectionViewCell</key>
@@ -80,6 +86,8 @@
 			<dict>
 				<key>cocoaTouchSubclass</key>
 				<array>
+					<string>UICollectionViewController</string>
+					<string>UITableViewController</string>
 					<string>UIViewController</string>
 					<string>UITableViewCell</string>
 					<string>UICollectionViewCell</string>
